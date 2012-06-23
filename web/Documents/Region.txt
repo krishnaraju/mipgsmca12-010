@@ -1,0 +1,4 @@
+Tnagar=100
+Vadapalani=200
+Hyderabad=500
+secunderabad=600
