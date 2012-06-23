@@ -95,7 +95,10 @@
             %>
 </table><br>
 <table align="center" width="768" style="border:1px solid #d2d2d2;">
-<form action="data1.jsp" name="f" method="get" onSubmit="return valid();">
+<form action="image1.jsp" name="f" method="get" onSubmit="return valid();">
+<tr>
+<td colspan="3" class="paragraping1" align="center"><font color="#FF0000" size="+1">Search Image Here</font></td>
+</tr>
 <tr>
 <td width="148" height="74" class="paragraping1">Search Your Files:</td>
 <td width="608"><input type="text" name="name" style="border:1px solid skyblue;font-family:verdana;color:red;padding:5px 5px 5px 5px;width:500px;height:25px;">&nbsp;&nbsp;
@@ -106,14 +109,14 @@
 <td class="paragraping1" colspan="3" align="center">
 <a href="image.jsp">Image</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="file.jsp">File</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="data.jsp">Text</a>
 </td>
-</tr>  
+</tr>    
 </form>    
 </table><br>
      
 <table align="center" width="650">
-<tr>
-<td height="74" class="paragraping1"><img src="images/user1.JPG"></td>
-</tr>    
+ <tr>
+<td height="74" class="paragraping1"><img src="images/architect.JPG" width="767" height="380"></td>
+</tr>   
 </table>
 </td>
 </tr>

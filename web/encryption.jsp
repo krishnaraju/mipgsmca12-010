@@ -1,11 +1,9 @@
-﻿<%@ page import="java.sql.*,java.util.*,databaseconnection.*"%>
+<%@ page import="java.sql.*,java.util.*,databaseconnection.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*" %>
-<%@page import="com.p1.*" %>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="keywords" content="" />
-
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Secure and Practical Outsourcing of Linear Programming in Cloud Computing</title>

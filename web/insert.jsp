@@ -3,7 +3,6 @@
 <head>
 <% 
        
-
 				
     session.setAttribute("user",request.getParameter("user"));
 	session.setAttribute("firstname",request.getParameter("firstname"));
